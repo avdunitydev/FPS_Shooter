@@ -1,7 +1,7 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Temp/Compiled-Standard.shader">
+﻿<Properties StartupItem="FPS_Shooter.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resourses\NavMesh.cs">
     <Files>
-      <File FileName="Temp/Compiled-Standard.shader" Line="12175" Column="10" />
+      <File FileName="Assets\Resourses\NavMesh.cs" Line="7" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
