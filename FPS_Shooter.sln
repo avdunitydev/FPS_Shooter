@@ -1,10 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-<<<<<<< Updated upstream
-# Visual Studio 2017
-=======
 # Visual Studio for Mac
->>>>>>> Stashed changes
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS_Shooter", "FPS_Shooter.csproj", "{8D4A53E4-BA0D-40D5-11C4-22542DB82D66}"
 EndProject
 Global
