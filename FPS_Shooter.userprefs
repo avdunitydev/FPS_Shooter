@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 ﻿<Properties StartupItem="FPS_Shooter.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resourses\NavMesh.cs">
     <Files>
       <File FileName="Assets\Resourses\NavMesh.cs" Line="7" Column="25" />
+=======
+﻿<Properties StartupConfiguration="{8D4A53E4-BA0D-40D5-11C4-22542DB82D66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resourses/NavMesh.cs">
+    <Files>
+      <File FileName="Assets/Resourses/NavMesh.cs" Line="34" Column="57" />
+>>>>>>> Stashed changes
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +17,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FPS__Shooter PreferredExecutionTarget="Unity.Editor" />
 </Properties>

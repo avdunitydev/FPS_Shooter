@@ -29,7 +29,10 @@ public class NavMesh : MonoBehaviour {
             }
         }
         m_MeshAgent.SetDestination(m_TargetPoint);*/
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
         if(Vector3.Distance(transform.position, pathPoints[m_IDPoint].position) < 1.5){
             // Debug.Log("Vector3.Distance(transform.position, pathPoints[m_IDPoint].position) == " + Vector3.Distance(transform.position, pathPoints[m_IDPoint].position));
             m_IDPoint = ++m_IDPoint % pathPoints.Length;
